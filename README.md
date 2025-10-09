@@ -1,2 +1,1 @@
-Block diagram:
-![Uploading Block_diagram.png…]()
+<img width="1524" height="422" alt="Block_diagram" src="https://github.com/user-attachments/assets/ea2049ee-24cd-421e-baf1-7158a668d697" />Block diagram<img width="1524" height="422" alt="Block_diagram" src="https://github.com/user-attachments/assets/364dca4b-e4da-468b-a58d-2f5c3f31d9de" />
